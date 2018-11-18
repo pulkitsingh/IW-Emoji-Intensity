@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="8F1F9373-F024-47A3-96F2-42F865C42822">
+    <Notes>
+        <Note ID="4" FontSize="14.0" Position="228.0,60.0" Width="123.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Emotion Words </String>
+            <ConnectedNoteIDs>5, 35, 41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="188.0,116.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Work has already been done to show gradation in adjectives and verbs (Sheinman et al, Fellbaum et al respectively)</String>
+            <ConnectedNoteIDs>4, 13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="58.0,377.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Verb paper has examples on surprise, fear and annoy scales. </String>
+            <ConnectedNoteIDs>7, 14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="58.0,471.0" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Adjectives paper only seems to give size example, not as relevant</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="183.0,209.0" Width="213.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>What emotion words should this research use to test co-occurence?</String>
+            <ConnectedNoteIDs>5, 14, 20</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,65</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="97.0,286.0" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Only use words from other research which have already been scaled </String>
+            <ConnectedNoteIDs>6, 13, 16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="167.0,378.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Seems a bit restrictive given current resources</String>
+            <ConnectedNoteIDs>14, 17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="166.0,445.0" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Look for more resources that have done work on adjective scaling - use their results?</String>
+            <ConnectedNoteIDs>16, 18, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="57.0,584.0" Width="125.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>“Comparing methods for deriving intensity scores for adjectives”, Ruppenhofer et al (2014)</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="59.0,669.0" Width="122.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Excellent classification, but no emotion vectors - only intelligence, quality, size, duration</String>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="342.0,280.0" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Come up with my own list of words and then find some way to scale them</String>
+            <ConnectedNoteIDs>13, 21-22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="294.0,373.0" Width="94.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>What words should be included in each category?</String>
+            <ConnectedNoteIDs>20, 28, 46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="431.0,375.0" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>How should sets of words be scaled?</String>
+            <ConnectedNoteIDs>20, 23-24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="464.0,591.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Use a human gold standard and ask N people to order selected words in each category</String>
+            <ConnectedNoteIDs>22, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="500.0,448.0" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Recreate methods encountered in the papers - like lexical-semantic patterns</String>
+            <ConnectedNoteIDs>22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="480.0,702.0" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>How many people are sufficient?</String>
+            <ConnectedNoteIDs>23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="195.0,586.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Ask Professor Fellbaum?</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="290.0,462.0" Width="85.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Use some resource like wordnet or a dictionary?</String>
+            <ConnectedNoteIDs>21, 31-32</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="276.0,551.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Which method?</String>
+            <ConnectedNoteIDs>28</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="301.0,604.0" Width="97.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Does the method need to be evaluated in some way?</String>
+            <ConnectedNoteIDs>28</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="14.0" Position="1267.0,61.0" Width="66.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Emojis</String>
+            <ConnectedNoteIDs>34-35, 41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="1229.0,107.0" Width="161.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Manually cross reference EmojiNet and EmojiTracker to find most popular emojis in four different emotion categories</String>
+            <ConnectedNoteIDs>33, 64-65, 67-68</ConnectedNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="15.0" Position="684.0,54.0" Width="184.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Twitter Corpus-Based 
+Analysis</String>
+            <ConnectedNoteIDs>4, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="1297.0,597.0" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Key:</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,4</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="1297.0,653.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>General Idea</String>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="1297.0,681.0" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Question</String>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="1297.0,709.0" Width="107.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Possibility / Option</String>
+        </Note>
+        <Note ID="41" FontSize="14.0" Position="809.0,141.0" Width="200.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Recording Co-Occurence</String>
+            <ConnectedNoteIDs>4, 33, 54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="827.0,235.0" Width="169.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>I can think of two distinct approaches (at the moment)</String>
+            <ConnectedNoteIDs>43, 47, 54</ConnectedNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="664.0,316.0" Width="145.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Proportion of Times</String>
+            <ConnectedNoteIDs>42, 45, 50</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,19</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="644.0,448.0" Width="184.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>For example, I would look for tweets that contain the word ‘shocked’ and any of the emojis in the SURPRISE category. Then I could compute the proportion of times each word occurs along with the word ‘terrified’</String>
+            <ConnectedNoteIDs>45, 59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="645.0,350.0" Width="183.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Look for tweets that contain an emotion word and any of the emojis in that emotion category, calculate proportion of times each emoji was used</String>
+            <ConnectedNoteIDs>43-44</ConnectedNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="383.0,463.0" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>Do the word have to be limited to one syntactic category, like verbs, or adjectives?</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="891.0,358.0" Width="112.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Raw Frequency</String>
+            <ConnectedNoteIDs>42, 48, 50</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="857.0,396.0" Width="186.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Individually query each combination of word and emoji and record the frequency of each pair.</String>
+            <ConnectedNoteIDs>47, 49</ConnectedNoteIDs>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="857.0,485.0" Width="187.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>For example, I would have three frequencies of the occurences of the word ‘shocked’ with the three emojis in the SURPRISE category</String>
+            <ConnectedNoteIDs>48, 59</ConnectedNoteIDs>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="1114.0,344.0" Width="86.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Differences:</String>
+            <ConnectedNoteIDs>43, 47, 51</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="1075.0,373.0" Width="169.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Not certain about this, but I think these are the possible differences:</String>
+            <ConnectedNoteIDs>50</ConnectedNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="1077.0,429.0" Width="167.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Twitter’s Standard search API does not guarantee data fidelity, and says that the results shown will be of public tweets in the range of the last 6-9 days.</String>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="1077.0,527.0" Width="166.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>This could mean that the multiple queries in the raw frequency approach could represent different number of days</String>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="818.0,193.0" Width="186.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>What approach should be taken to record co-occurence?</String>
+            <ConnectedNoteIDs>41-42, 58</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,53</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="1077.0,611.0" Width="165.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>I think the proportion approach is better in this regard, but I’m not sure if I’m missing an advantage of the raw frequency approach?</String>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="1080.0,693.0" Width="163.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Could also be different in how they deal with frequency &amp; combinations</String>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="494.0,204.0" Width="196.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>How to deal with 2+ occurrences of the same emoji or combinations of different emojis in the same tweet? (relevant to both approaches)</String>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="494.0,173.0" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Aside: Frequency / Combinations</String>
+            <ConnectedNoteIDs>54</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="786.0,606.0" Width="130.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Database Schema</String>
+            <ConnectedNoteIDs>44, 49</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="1297.0,625.0" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882328 0.80198</Fill>
+            </Appearance>
+            <String>Headings</String>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="756.0,635.0" Width="200.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Once the approach has been finalized, a plan for the storing the data must be drafted</String>
+            <ConnectedNoteIDs>62-63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="724.0,714.0" Width="98.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>What must be stored and how?</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="880.0,708.0" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.290055 0.1523 0.182215</Border>
+                <Fill>0.940019 0.892907 0.779716</Fill>
+            </Appearance>
+            <String>What tools and platform need to be used in the process?</String>
+            <ConnectedNoteIDs>61</ConnectedNoteIDs>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="1120.0,136.0" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Happiness
+😊☺😄😃😀</String>
+            <ConnectedNoteIDs>34</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="1256.0,228.0" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Sadness
+😭😢😔😩😫😞</String>
+            <ConnectedNoteIDs>34</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="1159.0,253.0" Width="72.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Anger
+😠😡😤👿</String>
+            <ConnectedNoteIDs>34</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="1079.0,198.0" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Surprise
+😯😮😲🙀😦</String>
+            <ConnectedNoteIDs>34</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>36, 60, 37, 39-40</Stack>
+        <Stack>52-53, 55</Stack>
+    </Stacks>
+    <AutoFit>36-37, 39-40, 58, 60, 64-65, 67-68</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="18AAABE7-4F21-4BF1-8B7A-61C0AE511E1F" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="444B5BDE-CB77-4DE1-A7A0-E8740246C7D0" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="A94B7E80-E53B-492C-AB13-C97B6585623D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="9E3F96FA-50B9-4373-AC35-73D4EC8E56CC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="81CA661D-6D08-433E-84B2-79001CE0F470" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="BB999946-579C-4766-8E30-9D141F5EAE0C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="3BB65996-3711-439D-97E4-9B2A251A83E8" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.000025,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
