@@ -1,0 +1,13 @@
+type,emotion,emoji_1,emoji_2
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png,https://s3.us-east-2.amazonaws.com/iw-emojis/pouting.png
+more,angry,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_horns.png,https://s3.us-east-2.amazonaws.com/iw-emojis/angry_steam.png
