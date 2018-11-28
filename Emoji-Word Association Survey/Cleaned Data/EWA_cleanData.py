@@ -35,8 +35,8 @@ def choice(row):
 def cleanData(dataFile, emojiLinks, emojiNames):
 
 	# selecting relevant columns
-	col_names  = ['Input.type', 'Input.emotion', 'Input.emoji_1', 
-				  'Input.emoji_2','Input.emoji_3', 'Input.emoji_4',
+	col_names  = ['Input.word','Input.emoji_1','Input.emoji_2','Input.emoji_3', 
+				  'Input.emoji_4','Input.emoji_5','Input.emoji_6',
 				  'Answer.choice']
 
 	df = pd.read_csv(dataFile, usecols=col_names)
@@ -79,10 +79,26 @@ sadNames   = ['crying', 'disappointed', 'pensive', 'tear', 'tired', 'weary']
 #------------------------------------------------------------------------------#
 
 # cleaning all raw data files
-ewa_anger = cleanData("ewa_anger.csv", angryLinks, angryNames)
-#ewa_fear  = cleanData("ewa_fear.csv", fearLinks, fearNames)
-#ewa_sad   = cleanData("ewa_sad.csv", sadLinks, sadNames)
-
-print ewa_anger
+#ewa_anger = cleanData("ewa-anger.csv", angryLinks, angryNames)
+#ewa_fear  = cleanData("ewa-fear.csv", fearLinks, fearNames)
+ewa_sad   = cleanData("ewa-sadness.csv", sadLinks, sadNames)
 
 
+# saving cleaned data files
+#ewa_anger.to_csv("ewa-anger-clean.csv")
+#ewa_fear.to_csv("ewa-fear-clean.csv")
+ewa_sad.to_csv("ewa-sad-clean.csv")
+
+#------------------------------------------------------------------------------#
+
+# grouping data by word and response to produce frequency table
+#anger_count = ewa_anger.groupby(['Input.word', 'answers'])['answers'].count()
+#fear_count  = ewa_fear.groupby(['Input.word', 'answers'])['answers'].count()
+sad_count   = ewa_sad.groupby(['Input.word', 'answers'])['answers'].count()
+
+# saving frequency tables in data files
+#anger_count.to_csv("ewa-anger-count.csv")
+#fear_count.to_csv("ewa-fear-count.csv")
+sad_count.to_csv("ewa-sad-count.csv")
+
+#------------------------------------------------------------------------------#
