@@ -1,0 +1,9 @@
+,Position 1,Position 2,Position 3,Position 4,Position 5,Position 6,Position 7
+displeased,13,2,3,0,0,0,0
+dejected,0,1,1,11,3,2,0
+depressed,0,0,0,3,4,2,8
+heartbroken,0,0,1,2,3,7,5
+miserable,0,0,0,1,7,6,5
+unhappy,4,10,4,0,0,0,0
+sad,1,5,9,1,1,1,0
+,displeased,unhappy,sad,dejected,miserable,heartbroken,depressed
