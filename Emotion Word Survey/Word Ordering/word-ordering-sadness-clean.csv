@@ -1,0 +1,18 @@
+displeased,unhappy ,sad,dejected ,depressed,miserable,heartbroken
+displeased,unhappy ,sad,dejected ,miserable,heartbroken ,depressed
+displeased,sad,unhappy,dejected ,heartbroken,miserable,depressed
+displeased,unhappy ,sad,heartbroken,depressed,dejected,miserable
+displeased,sad,unhappy,depressed,dejected,miserable,heartbroken
+unhappy ,displeased,sad,dejected ,miserable,heartbroken ,depressed
+displeased,unhappy ,sad,dejected ,miserable,depressed,heartbroken
+displeased,unhappy ,dejected,miserable,sad,heartbroken ,depressed
+displeased,unhappy ,sad,dejected ,depressed,miserable,heartbroken
+unhappy ,sad,displeased,dejected ,miserable,heartbroken ,depressed
+unhappy ,displeased,sad,heartbroken,depressed,dejected,miserable
+displeased,unhappy ,sad,dejected ,heartbroken,depressed,miserable
+displeased,unhappy ,sad,dejected ,depressed,heartbroken ,miserable
+displeased,dejected,unhappy,sad,miserable,heartbroken ,depressed
+sad,unhappy ,displeased,dejected ,miserable,heartbroken ,depressed
+unhappy ,sad,displeased,dejected ,heartbroken,miserable,depressed
+displeased,sad,unhappy,depressed,dejected,miserable,heartbroken
+displeased,unhappy ,heartbroken,depressed,dejected,sad,miserable
